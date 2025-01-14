@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 This is ✨Aml Yasser✨
+🔭 I’m currently a senior year Computer Engineering student.
+⚡ I'm done with my bachelor project.
+🌱 I’m currently learning Data Science and practicing competitive programming.
+👯 I’m looking to collaborate on some fun Software Engineering projects.
 
 <!--
 **AmlYES/AmlYES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
