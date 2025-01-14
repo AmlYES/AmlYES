@@ -1,5 +1,5 @@
 ## Hi there 👋 This is ✨Aml Yasser✨
-🔭 I’m currently a senior year Computer Engineering student.
+🔭 I’m currently a senior year Computer Engineering student (graduating 2025).
 
 ⚡ I'm done with my bachelor project.
 
