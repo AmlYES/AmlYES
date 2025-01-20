@@ -1,12 +1,15 @@
-## Hi there 👋 This is ✨Aml Yasser✨
-🔭 I’m currently a senior year Computer Engineering student (graduating 2025).
+## Hi there 👋 I'm ✨Aml Yasser✨
+🔭 Senior Computer Engineering Student (Graduating 2025)
 
-⚡ I'm done with my bachelor project.
+👯 Aspiring Data Engineer | Full-Stack Developer | AI Enthusiast
 
-🌱 I’m currently learning Data Science and practicing competitive programming.
+⚡ Conducted my Bachelor's project in Generative AI
 
-👯 I’m looking to collaborate on some fun Software Engineering projects.
+🌱 Currently learning Data Science and practicing my problem solving skills
 
+🤝 Open to collaborating on exciting Software Engineering projects
+
+📫 Let's connect! Reach me at: amlyasser14@gmail.com
 <!--
 **AmlYES/AmlYES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
