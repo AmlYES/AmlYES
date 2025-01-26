@@ -5,7 +5,7 @@
 
 ⚡ Conducted my Bachelor's project in **Generative AI**
 
-🌱 Currently learning **Data Science** and practicing my **Problem Solving** skills  
+🌱 Currently learning **Data Science**, practicing **Code Patterns** and improving my **Problem Solving** skills  
 
 🤝 Open to collaborating on exciting **Software Engineering** projects  
 
