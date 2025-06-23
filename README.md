@@ -1,13 +1,11 @@
 ## Hi there 👋 I'm **✨Aml Yasser✨**  
-🔭 **Senior Computer Engineering Student (Graduating 2025)**  
+🎓 **Computer Science and Engineering Graduate**  
 
-👯 **Aspiring Data Engineer | Full-Stack Developer | AI Enthusiast**  
+👯 **Aspiring Full-Stack Developer | Data Engineer | AI Enthusiast**  
 
-⚡ Conducted my Bachelor's project in **Generative AI**
+🏅 Bachelor’s Degree with Excellence in **Generative AI** 🤖🧠
 
-🌱 Currently learning **Data Science**, practicing **Code Patterns** and improving my **Problem Solving** skills  
-
-🤝 Open to collaborating on exciting **Software Engineering** projects  
+🤝 Currently Seeking Collaboration on exciting **Software Development** 💻 and **Innovative AI and Data** Projects 📊🚀
 
 📫 **Let's connect!** Reach me at: [amlyasser14@gmail.com](mailto:amlyasser14@gmail.com)  
 
